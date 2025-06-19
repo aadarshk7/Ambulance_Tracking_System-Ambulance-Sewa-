@@ -9,7 +9,7 @@ Video Link- https://youtu.be/qi6_CVRo38g -->
 </br>
 
 
-This application built using Flutter, Firebase, FirebasePhoneAuth, API, GoogleMap and other packages aims to revolutionize emergency response by integrating three essential Modules Admin Ambulance Driver and Users.
+This application built using Flutter , Firebase, FirebasePhoneAuth, API, GoogleMap and other packages aims to revolutionize emergency response by integrating three essential Modules Admin Ambulance Driver and Users.
  Admin module allows administrators to efficiently manage the system. Admin can insert, view update and delete the information of both ambulance drivers and users ensuring that the database is always up-to-date and accurate.
 <h2>Choice Screen with 3 modules</h2>
 <p> <img src="https://raw.githubusercontent.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/https/github.com/aadarshk7/Ambulance-Sewa-Ambulance_Tracking_System/assets/ss/choice_page.jpg" height = 444 width=210/> </p>
